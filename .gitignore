@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+*.egg-info/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+fastapi_lab_env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
