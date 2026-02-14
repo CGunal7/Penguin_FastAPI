@@ -356,7 +356,7 @@ pip install -r requirements.txt
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@CGunal7](https://github.com/yourusername)
 - Course: MLOps - Northeastern University
 - Assignment: Lab Assignment 2
 
