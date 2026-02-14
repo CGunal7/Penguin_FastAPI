@@ -360,13 +360,3 @@ pip install -r requirements.txt
 - Course: MLOps - Northeastern University
 - Assignment: Lab Assignment 2
 
-## 📄 License
-
-This project is created for educational purposes as part of the MLOps course at Northeastern University.
-
-## 🙏 Acknowledgments
-
-- Original lab by Prof. Ramin Mohammadi
-- Lab Credits: Dhanush Kumar Shankar
-- Course: Machine Learning Operations (MLOps)
-- Institution: Northeastern University
