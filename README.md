@@ -71,7 +71,7 @@ fastapi_penguin_classifier/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/CGunal7/Penguin_FastAPI.git
+git clone https://github.com/CGunal7/Penguin_FastAPI
 cd Penguin_FastAPI
 ```
 
