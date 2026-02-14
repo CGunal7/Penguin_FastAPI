@@ -52,7 +52,7 @@ fastapi_iris_classifier/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/CGunal7/Penguin_FastAPI>
 cd fastapi_iris_classifier
 ```
 
