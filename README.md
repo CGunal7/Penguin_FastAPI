@@ -355,8 +355,8 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@CGunal7](https://github.com/yourusername)
+**Gunal chandra sekar**
+- GitHub: [@CGunal7](https://github.com/CGunal7)
 - Course: MLOps - Northeastern University
 - Assignment: Lab Assignment 2
 
